@@ -6,7 +6,7 @@ Digital Craftsman | Web Developer Enthusiast
 
 Greetings! I'm a recent graduate of the class of 2023 with a Bachelor's degree in Technology, specializing in electronics and instrumentation. While my academic journey equipped me with a solid foundation in hardware, my insatiable passion for coding led me to explore the world of web development. I took the reins of my learning journey, delving into HTML, CSS, JavaScript, React, and ExpressJS to carve my path in the digital realm. As a self-taught enthusiast, I've honed my skills as a digital craftsman, blending my electronics expertise with the finesse of coding. My unique background sets me apart, offering a distinctive perspective in crafting solutions that seamlessly merge hardware and software. Currently on the lookout for exciting opportunities, I aspire to land a full-time role as a software developer. My journey has been a testament to the belief that diverse skills can converge into powerful, innovative solutions. In the vast landscape of technology, I am eager to contribute my digital craftsmanship and bring a blend of creativity, analytical thinking, and technical prowess to the table.
 
-* 🌍  I'm based in Kolkata
+* 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [saspaul2014@gmail.com](mailto:saspaul2014@gmail.com)
 * 🧠  I'm learning to deepen my expertise in web development by exploring advanced concepts in React, diving into backend technologies like Node.js, and mastering the art of building scalable and efficient applications.
 * ⚡  I play bass sometimes :)
